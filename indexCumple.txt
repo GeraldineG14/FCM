@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Stylesheet" href="style.css">
+    <title>Flower</title>
+</head>
+<body>
+
+<div class="flower">
+    <div class="text-above">De: Geraldine :3 </div>
+    <div class="mid">
+    </div>
+    <div class="Petal1 p1">
+    </div>
+    <div class="Petal1 p2">
+    </div>
+    <div class="Petal1 p3">
+    </div>
+    <div class="Petal1 p4">
+    </div>
+    <div class="Petal2 p1">
+    </div>
+    <div class="Petal2 p2">
+    </div>
+    <div class="Petal2 p3">
+    </div>
+    <div class="Petal2 p4">
+    </div>
+    <div class="Petal3 p1">
+    </div>
+    <div class="Petal3 p2">
+    </div>
+    <div class="Petal3 p3">
+    </div>
+    <div class="Petal3 p4">
+    </div>
+    <div class="text-below">Para: Luz Maritza Iturrizaga Tarazona </div>
+    <div class="text-below">Querida madrina. En este día especial, quiero aprovechar </div>
+    <div class="text-below">la oportunidad para expresarte cuánto significas para mí. </div>
+    <div class="text-below">Tu amor, apoyo y guía han sido fundamentales en mi vida,  </div>
+    <div class="text-below">y estoy infinitamente agradecida por tenerte como mi madrina  </div>
+    <div class="text-below">En tu cumpleaños, deseo que todos tus sueños y deseos se hagan realidad </div>
+    <div class="text-below">Que este nuevo año te traiga alegría, salud y muchas razones para sonreír. </div>
+    <div class="text-below">Eres una persona maravillosa y mereces todo lo mejor. </div>
+    <div class="text-below">Feliz cumpleaños, madrina querida. </div>
+    <div class="text-below">Que este día esté lleno de amor, felicidad y celebración.</div>
+    <div class="text-below">Con todo mi cariño, Geraldine. </div>
+
+  </div>
+  </div>
+  </body>
+  </html>
